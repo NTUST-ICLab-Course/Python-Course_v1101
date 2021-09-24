@@ -35,9 +35,11 @@
 3. 不一定需要使用樹莓派的板子，但最好能與外部連接：相機、感測器、伺服器、上網抓資料等
 
 ## 參考
-### 教科書
-Getting Started with Python and Raspberry Pi
+* 教科書
+    * Getting Started with Python and Raspberry Pi
+
 ![](./static/images/book_cover.jpg)
 
-### Python 線上課程
-Python Tutorial by Corey Schafer: https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
+* Python 線上課程
+    * Python Tutorial by Corey Schafer: 
+        * https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
