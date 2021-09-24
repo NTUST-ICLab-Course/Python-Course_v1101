@@ -3,6 +3,7 @@
 * 課程內容中的章節對應此教科書： `Getting Started with Python and Raspberry Pi`，並且有額外加入教材。
 * 今年沒有使用 Raspberry Pi，故底下的章節並不是連續的，並且有調整過順序。
 * Facebook 社團：https://www.facebook.com/groups/1014739458626072/
+
 ![]('./static/images/qrcode.jpg')
 
 ## 週次表
