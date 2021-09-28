@@ -23,8 +23,21 @@
 | 12 | 12/7 | Chapter 09: Creating Command-line Interfaces (2/2)                      |       |
 | 13 | 14   | Chapter 08: Extracting Data from the Internet (1/2)                     |       |
 | 14 | 21   | Chapter 08: Extracting Data from the Internet (2/2)                     | 網路爬文  |
-| 15 | 28   | ?pytorch                                                                |       |
+| 15 | 28   | ?pytorch? Review of th class for job interview on Python                |       |
 | 16 | 1/4  |                                                                         | 期末專題  |
+
+## 臺科節次表
+| 節次 | 上課時間      |    
+| --- | ------------ |    
+| 0   | 07:10 - 08:00 |    
+| 1   | 08:10 - 09:00 |    
+| 2   | 09:10 - 10:00 |    
+| 3   | 10:20 - 11:10 |    
+| 4   | 11:20 - 12:10 |    
+| 5   | 12:20 - 13:10 |    
+| 6   | 13:20 - 14:10 |    
+| 7   | 14:20 - 15:10 |    
+| 8   | 15:30 - 16:20 |    
 
 ## 計分方式
 1. 3 次作業 20% x 4 = 60%
