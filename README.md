@@ -7,10 +7,10 @@
 ![](./static/images/qrcode.jpg)
 
 ## 週次表
-| 週  | 日期   |                                                                         | 作業    |
-|----|-----:|-------------------------------------------------------------------------|-------|
+| 週  | 日期   |                                                                         |影片連結  | 作業    |
+|----|-----:|-------------------------------------------------------------------------|------------|-------|
 | 1  | 21   |                                                                         |       |
-| 2  | 28   | Chapter 01: Python 環境安裝 (Anaconda + Jupyter Notebook)                   |       |
+| 2  | 28   | Chapter 01: Python 環境安裝 (Anaconda + Jupyter Notebook)                   |https://youtu.be/BClf6SRyGz0|       |
 | 3  | 10/5 | Chapter 02: Understanding Control Flow and Data Types                   |       |
 | 4  | 12   | Chapter 03: Working with Data Structures and I/O (1/2)                  |       |
 | 5  | 19   | Chapter 03: Working with Data Structures and I/O (2/2)                  | ?資料結構 |
