@@ -7,24 +7,24 @@
 ![](./static/images/qrcode.jpg)
 
 ## 週次表
-| 週  | 日期   |                                                                         |影片連結  | 作業    |
-|----|-----:|-------------------------------------------------------------------------|------------|-------|
+| 週  | 日期   |                                                                       | 作業    |
+|----|-----:|-------------------------------------------------------------------------|-------|
 | 1  | 21   |                                                                         |       |
-| 2  | 28   | Chapter 01: Python 環境安裝 (Anaconda + Jupyter Notebook)                |https://youtu.be/BClf6SRyGz0|       |
-| 3  | 10/5 | Chapter 02: Understanding Control Flow and Data Types                   ||       |
-| 4  | 12   | Chapter 03: Working with Data Structures and I/O (1/2)                  ||       |
-| 5  | 19   | Chapter 03: Working with Data Structures and I/O (2/2)                  || ?資料結構 |
-| 6  | 26   | Chapter 04: Object Oriented Programming in Python (Corey Schafer) (1/2) ||       |
-| 7  | 11/2 | Chapter 04: Object Oriented Programming in Python (Corey Schafer) (2/2) ||       |
-| 8  | 9    | Chapter 04 (from textbook): Object Oriented Programming in Python (1/2) ||       |
-| 9  | 16   | Chapter 04 (from textbook): Object Oriented Programming in Python (2/2) ||       |
-| 10 | 23   | Chapter 05: Packaging Code with setuptools                              || 簡易計算機 |
-| 11 | 30   | Chapter 09: Creating Command-line Interfaces (1/2)                      ||       |
-| 12 | 12/7 | Chapter 09: Creating Command-line Interfaces (2/2)                      ||       |
-| 13 | 14   | Chapter 08: Extracting Data from the Internet (1/2)                     ||       |
-| 14 | 21   | Chapter 08: Extracting Data from the Internet (2/2)                     || 網路爬文  |
-| 15 | 28   | ?pytorch? Review of th class for job interview on Python                ||       |
-| 16 | 1/4  |                                                                         || 期末專題  |
+| 2  | 28   | Chapter 01: Python 環境安裝 (Anaconda + Jupyter Notebook)                |
+| 3  | 10/5 | Chapter 02: Understanding Control Flow and Data Types                   |       |
+| 4  | 12   | Chapter 03: Working with Data Structures and I/O (1/2)                  |       |
+| 5  | 19   | Chapter 03: Working with Data Structures and I/O (2/2)                  | ?資料結構 |
+| 6  | 26   | Chapter 04: Object Oriented Programming in Python (Corey Schafer) (1/2) |       |
+| 7  | 11/2 | Chapter 04: Object Oriented Programming in Python (Corey Schafer) (2/2) |       |
+| 8  | 9    | Chapter 04 (from textbook): Object Oriented Programming in Python (1/2) |       |
+| 9  | 16   | Chapter 04 (from textbook): Object Oriented Programming in Python (2/2) |       |
+| 10 | 23   | Chapter 05: Packaging Code with setuptools                              | 簡易計算機 |
+| 11 | 30   | Chapter 09: Creating Command-line Interfaces (1/2)                      |       |
+| 12 | 12/7 | Chapter 09: Creating Command-line Interfaces (2/2)                      |       |
+| 13 | 14   | Chapter 08: Extracting Data from the Internet (1/2)                     |       |
+| 14 | 21   | Chapter 08: Extracting Data from the Internet (2/2)                     | 網路爬文  |
+| 15 | 28   | ?pytorch? Review of th class for job interview on Python                |       |
+| 16 | 1/4  |                                                                         | 期末專題  |
 
 ## 臺科節次表
 | 節次 | 上課時間      |    
